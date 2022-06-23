@@ -1,0 +1,10 @@
+Library/* 
+Logs/* 
+Build/*
+Temp/* 
+.vs/* 
+obj/* 
+ 
+.vsconfig 
+*.sln 
+*.rar
