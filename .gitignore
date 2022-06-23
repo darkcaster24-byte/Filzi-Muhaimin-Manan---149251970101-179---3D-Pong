@@ -7,4 +7,5 @@ obj/*
  
 .vsconfig 
 *.sln 
+Build.rar
 *.rar
